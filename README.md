@@ -9,7 +9,7 @@
 
 ## Dynamic Demonstration
 <div style="text-align: center;">
-  <img src="./assets/demo_gif.gif" width="60%" alt="US-Diffusion Demo">
+  <img src="./assets/demo_gif.gif" width="100%" alt="US-Diffusion Demo">
 </div>
 
 [📺 Full Video Demonstration](./assets/demo_video.mp4)
