@@ -1,6 +1,6 @@
 # US-Diffusion ![Development Status](https://img.shields.io/badge/Status-Under%20Development-yellow)
 
-**[Underlying Semantic Diffusion for Effective and Efficient In-Context Learning]** **(code coming soon!!!)**
+**[Underlying Semantic Diffusion for Effective and Efficient In-Context Learning]** **(code is released)**
 
 [![arXiv](https://img.shields.io/badge/arXiv-2503.04050-b31b1b.svg)](http://arxiv.org/abs/2503.04050) 
 [![GitHub Pages](https://img.shields.io/badge/Project-Website-2088FF?&logoColor=white)](https://us-diffusion.github.io/)
