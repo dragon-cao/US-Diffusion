@@ -1,0 +1,7 @@
+data:
+  target: train3.DataModuleFromConfig
+  params:
+    batch_size: 8
+    num_workers: 32
+    tasks: ['inv_seg', 'inv_depth', 'inv_hed', 'hed', 'seg', 'depth'] 
+
